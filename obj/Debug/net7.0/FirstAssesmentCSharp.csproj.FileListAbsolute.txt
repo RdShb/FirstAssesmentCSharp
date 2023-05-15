@@ -1,0 +1,15 @@
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.csproj.AssemblyReference.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.AssemblyInfoInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.AssemblyInfo.cs
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.exe
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.deps.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.runtimeconfig.json
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\refint\FirstAssesmentCSharp.dll
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.pdb
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.genruntimeconfig.cache
+C:\Users\rocca\OneDrive\Escritorio\Ejercicios EOI\FirstAssesmentCSharp\obj\Debug\net7.0\ref\FirstAssesmentCSharp.dll
